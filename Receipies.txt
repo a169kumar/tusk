@@ -1,2 +1,4 @@
 welcome to amit
 good morning
+hi
+good afternoon
